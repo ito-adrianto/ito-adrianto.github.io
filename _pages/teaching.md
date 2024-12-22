@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-You can find my teaching statement [here](files/teaching-statement-Adrianto.pdf)
+You can find my teaching statement [here](https://drive.google.com/file/d/16pg9YT8ySuLDogEbu0NogtQcc1deUN9j/view?usp=sharing)
 
 # Instructor
 
