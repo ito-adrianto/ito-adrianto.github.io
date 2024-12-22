@@ -40,10 +40,8 @@ Academic Service
 Research and academic funding
 ======
 * Summer Fellowship, Carlson School of Management	2024
-* Ph.D. Student Conference Travel Fellowship, Carlson School of Management, 2024
+* Ph.D. Student Conference Travel Fellowship, Carlson School of Management, 2022-2024
 * The Employee Ownership Foundation/Louis O. Kelso Fellowship, Rutgers University, 2023–2024
-* Ph.D. Student Conference Travel Fellowship, Carlson School of Management, 2023
-* Ph.D. Student Conference Travel Fellowship, Carlson School of Management, 2022 
 * Travel grant for the WAIM Conference, the Work in the Age of Intelligent Machine Research Coordination Network, 2022
 * Full scholarship from the Financial Education and Training Agency (FETA) Scholarship for a Doctoral degree, the Ministry of Finance, 2020–2024
 * Full scholarship from the Scholarship Program for Strengthening the Reforming Institutions (SPIRIT) for a Master’s degree, the Ministry of Finance, 2012–2014
