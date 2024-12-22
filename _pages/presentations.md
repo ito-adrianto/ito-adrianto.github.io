@@ -45,8 +45,3 @@ author_profile: true
 
 *You have been muted: Communication, trust, and knowledge sharing in virtual work environments*
 - Distances in Organizations Virtual Conference (online)
-
-
-{% for post in site.presentations reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
