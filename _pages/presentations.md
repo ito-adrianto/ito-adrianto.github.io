@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-**2024**
+# 2024
 
 *Robots and Work*
 - Annual Meeting of the Academy of Management, Chicago, IL
@@ -22,7 +22,7 @@ author_profile: true
 - Kelso Workshop, New Brunswick, NJ
 
 
-**2023**
+# 2023
 
 *The Effects of Robots on the Workplaces*
 - Work and Organizations Workshop Series, Minneapolis, MN
@@ -37,7 +37,7 @@ author_profile: true
 *How robotics affects employment and skills of low and high-skill workers? Evidence from U.S. manufacturing plants 2010-2022*
 - Industry Studies Association (ISA) Annual Conference, Columbus, OH
 
-**2022**
+# 2022
 
 *How things are made matters: The multifaceted effects of contemporary technologies on complexity, interdependence, and the organization of work*
 - Industry Studies Association (ISA) Conference, Philadelphia, PA
