@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Please see my teaching statement [here](/files/Teaching statement-Adrianto.pdf"\)
+Please see my teaching statement [here](/files/Teaching statement-Adrianto.pdf)
 
 # Instructor
 
