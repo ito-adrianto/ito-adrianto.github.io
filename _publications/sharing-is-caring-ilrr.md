@@ -1,5 +1,5 @@
 ---
-title: "Sharing is cari"
+title: "Sharing is Caring: Employee Stock Ownership Plans and Employee Satisfaction in U.S. Manufacturing"
 collection: publications
 category: submitted
 permalink: /publication/robots-and-work-ilrr
