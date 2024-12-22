@@ -13,9 +13,13 @@ author_profile: true
 - INFORMS Annual Meeting, Seattle, WA
 
 *Sharing is Caring: Employee Stock Ownership Plans and Employee Satisfaction in U.S. Manufacturing*
-- The Annual Meeting of the Academy of Management, Chicago, IL • The Industry Studies Association Annual Conference, Sacramento, CA • Annual People and Organizations Conference, Philadelphia, PA
-- Are Employee-Owned Firms Luddites? Effects of Ownership on Adoption of Robots and Employment after Adoption
-- The Industry Studies Association Annual Conference, Sacramento, CA • Kelso Workshop, New Brunswick, NJ
+- The Annual Meeting of the Academy of Management, Chicago, IL
+- The Industry Studies Association Annual Conference, Sacramento, CA
+- Annual People and Organizations Conference, Philadelphia, PA
+
+*Are Employee-Owned Firms Luddites? Effects of Ownership on Adoption of Robots and Employment after Adoption*
+- The Industry Studies Association Annual Conference, Sacramento, CA
+- Kelso Workshop, New Brunswick, NJ
 
 
 **2023**
