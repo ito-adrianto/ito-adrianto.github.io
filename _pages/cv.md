@@ -25,11 +25,11 @@ Work experience
 ======
 ## Ministry of Finance, Jakarta, Indonesia
   * Head of Organization II B Subdivision, September 2015–August 2020
-    * Duties includes: leading a four-member team, formulating organizational roadmaps, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
+    * Duties include: leading a four-member team, formulating organizational roadmaps, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
   * Acting Head of Organization II C Subdivision, September 2014–August 2015
-    * Duties includes: leading a three-member team, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
+    * Duties include: leading a three-member team, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
   * Organizational Analyst, January 2009–August 2012
-    * Duties includes: conducting job evaluation and analysis and analyzing organizational restructuring initiatives
+    * Duties include: conducting job evaluation and analysis and analyzing organizational restructuring initiatives
   
 Academic Service
 ======
