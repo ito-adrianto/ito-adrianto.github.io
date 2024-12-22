@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/pecking-order-in-indonesia
 excerpt: 'In this undergraduate publication, I test the pecking order theory on blue chip stocks in the Indonesian stock market.'
-date: 2019
-venue: 'Inovasi: Jurnal Ekonomi, Keuangan, dan Manajemen'
+date: 2019-01-01
+venue: 'Inovasi - Jurnal Ekonomi, Keuangan, dan Manajemen'
 slidesurl: 'https://www.academia.edu/120961701/Uji_Empirik_Strategi_Struktur_Modal_Pecking_Order_Pada_Perusahaan_Perusahaan_Non_Keuangan_LQ45_Bursa_Efek_Indonesia'
 paperurl: 'https://www.academia.edu/120961701/Uji_Empirik_Strategi_Struktur_Modal_Pecking_Order_Pada_Perusahaan_Perusahaan_Non_Keuangan_LQ45_Bursa_Efek_Indonesia'
 citation: 'Adrianto and Buddi Wibowo (2019) Uji Empirik Strategi Struktur Modal Pecking Order pada Perusahaan-Perusahaan Non Keuangan LQ45 Bursa Efek Indonesia. Inovasi: Jurnal Ekonomi, Keuangan, dan Manajemen, 15(1), 12-25.'
