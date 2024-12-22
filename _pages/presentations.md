@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **2024**
+
 *Robots and Work*
 - Annual Meeting of the Academy of Management, Chicago, IL
 - Annual People and Organizations Conference, Philadelphia, PA
@@ -16,7 +17,9 @@ author_profile: true
 - Are Employee-Owned Firms Luddites? Effects of Ownership on Adoption of Robots and Employment after Adoption
 - The Industry Studies Association Annual Conference, Sacramento, CA • Kelso Workshop, New Brunswick, NJ
 
+
 **2023**
+
 *The Effects of Robots on the Workplaces*
 - Work and Organizations Workshop Series, Minneapolis, MN
 
@@ -31,6 +34,7 @@ author_profile: true
 - Industry Studies Association (ISA) Annual Conference, Columbus, OH
 
 **2022**
+
 *How things are made matters: The multifaceted effects of contemporary technologies on complexity, interdependence, and the organization of work*
 - Industry Studies Association (ISA) Conference, Philadelphia, PA
 - Work in the Age of Intelligent Machines (WAIM) Conference, Washington, DC
