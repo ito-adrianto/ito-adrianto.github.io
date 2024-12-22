@@ -15,69 +15,27 @@ Education
 * M.S. in Public Policy and Management, Heinz College, Carnegie Mellon University, 2014 (Highest Distinction)
 * B.S. in Management, Universitas Indonesia, 2007
 
+Dissertation
+======
+*Essays on the Effects of Automation Technology and Employee Ownership on the Organization of Work and Employee Well-Being*
+
+Committee: Avner Ben-Ner (Advisor), Alan Benson, Moshe Barach, Aaron Sojourner
+
 Work experience
 ======
-* Ministry of Finance, Jakarta, Indonesia
-  * Head of Organization II B Subdivision, September 2015 – August 2020
+## Ministry of Finance, Jakarta, Indonesia
+  * Head of Organization II B Subdivision, September 2015–August 2020
     * Duties includes: leading a four-member team, formulating organizational roadmaps, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
-  * Acting Head of Organization II C Subdivision (September 2014 – August 2015)
-  * Organizational Analyst (January 2009 – August 2012)
+  * Acting Head of Organization II C Subdivision, September 2014–August 2015
+    * Duties includes: leading a three-member team, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
+  * Organizational Analyst, January 2009–August 2012
+    * Duties includes: conducting job evaluation and analysis and analyzing organizational restructuring initiatives
   
 Academic Service
 ======
 * Ad-hoc reviewer for Organization Science, 2024
 * Ad-hoc reviewer for the Annual Meeting of the Academy of Management (3 STR and 3 HR papers), 2024
 * Discussant in the Kelso Workshop, New Brunswick, NJ, 2024
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Work in progress
-======
-  <ul>{% for post in site.work-in-progress reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Work in the preliminary phase (ideation and data collection)
-
-* Artificial intelligence and the complementarity and substitution of skills: Evidence from job postings (co-authored with Avner Ben-Ner)
-* Does automation make the workplace more equitable? Examining the effects of emerging technologies on gender and race
-* The effect of the anti-abuse rules for S corporations on the development of ESOP in the US
-* Risk tolerance: Do employee-owned firms hire workers that fit with the ownership culture?
-* A literature review on the effect of artificial intelligence on labor demand and productivity
-
-Press
-======
-* Sharing is caring: Employee stock ownership plans tied to higher job satisfaction, study shows,
-*Canadian HR Reporter*, 9/25/2024 [Link](https://www.hrreporter.com/focus-areas/compensation-andbenefits/sharing-is-caring-employee-stock-ownership-plans-tied-to-higher-job-satisfaction-studyshows/388748)
-
-* Employee Stock Ownership Plans boost job satisfaction in U.S. manufacturing sector, *IZA Newsroom*, 9/9/2024 [Link](https://newsroom.iza.org/en/archive/research/employee-stock-ownership-plans-boost-job-satisfaction-in-u-s-manufacturing-sector/)
-  
-Teaching
-======
-## Instructor
-
-### Business Principles for the HRIR Professional (HRIR 6001)
-
-This course is taught in the first semester by Master of Human Resources & Industrial Relations students at the Carlson school. I taught two sessions in Fall 2022 to full- and part-time students. I received a PhD Student Teaching Award from the Carlson school for teaching this course.
-
-## Teaching assistant
-### University of Minnesota, 2021-2025
-- Business Principles for the HRIR Professional
-- Organizational Theory Foundation of High-Impact HRIR
-- Change in the Workplace
-- Negotiation Strategies
-- Management of Teams
-- HRIR in Practice: Strategy, Execution, and Ethics
-- Leading Others
-
-### Carnegie Mellon University, 2012-2014
-- Applied Economic Analysis
-- Strategic Presentation Skills
-- Financial Analysis
   
 Research and academic funding
 ======
@@ -108,3 +66,36 @@ Professional affiliations
 Computer skills
 ======
 R, LaTex, SQL, Python, SPSS, UCINET, RapidMiner
+
+Ph.D.-level courses
+======
+* Strategy II
+* Seminar in Technology Strategy
+* Core Seminar: Work and Organizations Research Methods
+* Core Seminar: Fundamentals of HR
+* Core Seminar: Organizational Behavior
+* Core Seminar: Economic Analysis
+* PhD Seminar: Research Design
+* PhD Seminar: Theory Building
+* Special Topic in Work and Organizations: An Introduction to Behavioral and Experimental Economics
+* Special Topic in Work and Organizations: A Social Network Approach to Investigating Topics in HR & OB
+* Advanced Multivariate Regression Analysis
+* Psychological Measurement
+* Seminar in Industrial and Organizational Psychology I
+* Econometric Analysis I
+* Econometric Analysis II • Data Mining and Personalization
+
+Training and certifications
+======
+* Fundamentals of Disability Accommodations and Inclusive Course Design
+* Eight Innovative Uses for Multiple Choice Questions
+* Finalizing Your Learning-Centered, Accessible Syllabus
+* Plan for Success: Crafting a Strong First Impression
+* Presentations That Stick
+* Vocal Strategies to Improve Clarity in Teaching
+* Which Teaching Practices are (and aren’t) Supported by Pedagogical Literature?
+* Social / Behavioral or Humanist Research Investigators and Key Personnel
+* Digital Enterprise Architecture Awareness
+* People Management Program
+* Organization Development
+* HR Data Scientist for Financial Services Institution
