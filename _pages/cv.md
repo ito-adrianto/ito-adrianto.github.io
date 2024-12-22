@@ -20,14 +20,8 @@ Work experience
 * Ministry of Finance, Jakarta, Indonesia
   * Head of Organization II B Subdivision, September 2015 – August 2020
     * Duties includes: leading a four-member team, formulating organizational roadmaps, developing organizational health measurement methodology, conducting job evaluation and analysis, and analyzing organizational restructuring initiatives
-
-  * Acting Head of Organization II C Subdivision
-  * Organizational Analyst
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Acting Head of Organization II C Subdivision (September 2014 – August 2015)
+  * Organizational Analyst (January 2009 – August 2012)
   
 Academic Service
 ======
@@ -64,9 +58,26 @@ Press
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Instructor
+
+### Business Principles for the HRIR Professional (HRIR 6001)
+
+This course is taught in the first semester by Master of Human Resources & Industrial Relations students at the Carlson school. I taught two sessions in Fall 2022 to full- and part-time students. I received a PhD Student Teaching Award from the Carlson school for teaching this course.
+
+## Teaching assistant
+### University of Minnesota, 2021-2025
+- Business Principles for the HRIR Professional
+- Organizational Theory Foundation of High-Impact HRIR
+- Change in the Workplace
+- Negotiation Strategies
+- Management of Teams
+- HRIR in Practice: Strategy, Execution, and Ethics
+- Leading Others
+
+### Carnegie Mellon University, 2012-2014
+- Applied Economic Analysis
+- Strategic Presentation Skills
+- Financial Analysis
   
 Research and academic funding
 ======
