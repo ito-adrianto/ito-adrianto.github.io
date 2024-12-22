@@ -14,7 +14,7 @@ author_profile: true
 
 # Work in the preliminary phase (ideation and data collection)
 
-1. Artificial intelligence and the skill complementarity and substitution: Evidence from job postings (co-authored with Avner Ben-Ner)
+1. Artificial intelligence and skill complementarity and substitution: Evidence from job postings (co-authored with Avner Ben-Ner)
 2. Does automation make the workplace more equitable? Examining the effects of emerging technologies on gender and race
 3. The effect of the anti-abuse rules for S corporations on the development of ESOP in the US
 4. Risk tolerance: Do employee-owned firms hire workers that fit with the ownership culture?
