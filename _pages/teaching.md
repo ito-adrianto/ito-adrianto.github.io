@@ -15,7 +15,7 @@ This core course is taught to full- and part-time MHRIR students at the Carlson 
 
 ## Teaching assistant
 ### University of Minnesota, 2021-2025
-- Business Principles for the HRIR Professional
+- Business Principles for the HRIR Professional (led lab sessions)
 - Organizational Theory Foundation of High-Impact HRIR
 - Change in the Workplace
 - Negotiation Strategies
