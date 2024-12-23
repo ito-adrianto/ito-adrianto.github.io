@@ -24,7 +24,7 @@ author_profile: true
 
 # 2023
 
-### The Effects of Robots on the Workplaces
+### The Effects of Robots on the Workplace
 - Work and Organizations Workshop Series, Minneapolis, MN
 
 ### How things are made matters: The effects of technology on the organization of work
