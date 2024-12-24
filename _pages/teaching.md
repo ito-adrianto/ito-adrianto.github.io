@@ -11,7 +11,7 @@ You can find my teaching statement [here](https://drive.google.com/file/d/16pg9Y
 
 ### Business Principles for the HRIR Professional (HRIR 6001)
 
-This core course is taught to full- and part-time MHRIR students at the Carlson School in the Fall of 2022. I was honored to receive a Ph.D. teaching award in recognition of my work teaching this course.
+This core course is taught to full- and part-time MHRIR students at the Carlson School in the Fall of 2022. I was honored to receive a Ph.D. Teaching Award in recognition of my work teaching this course.
 
 ## Teaching assistant
 ### University of Minnesota, 2021-2025
