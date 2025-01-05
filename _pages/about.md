@@ -15,4 +15,4 @@ Before starting my Ph.D. in 2020, I worked for eleven years as an organizational
 
 I am on the 2024-2025 Job Market. 
 
-You can find my CV [here](https://drive.google.com/file/d/17OmIjPwZqA4VZlAntr5OYfxMMxMBEKgG/view?usp=sharing) and job market paper [here](https://drive.google.com/file/d/1WyXOft3x-UFmD63VubrbFxDGmOn42bpS/view?usp=sharing)
+You can find my CV [here](https://drive.google.com/file/d/1GiPfTwHh3_o6BcvQe-ktsj5gPNkIAEMA/view?usp=sharing) and job market paper [here](https://drive.google.com/file/d/1GgG0tV7KdySrH4IetviEItAYIFR52LHq/view?usp=sharing)
