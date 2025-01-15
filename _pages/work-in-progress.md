@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+---
+
 # Work in the preliminary phase (ideation, data collection, and preliminary findings)
 
 ## Are Employee-Owned Firms Luddites? Effects of Ownership on Adoption of Robots and Employment after Adoption
