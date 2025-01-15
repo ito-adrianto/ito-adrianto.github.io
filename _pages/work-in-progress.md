@@ -28,8 +28,6 @@ Empirical evidence suggests that plants that adopt robots increase the hiring of
 
 In sum, contrary to “Luddite” expectations, employee-owners embrace automation because ownership affords them a voice and power to protect their interest in sustaining employment and capturing productivity returns. The presence of institutional channels for worker voice and profit-sharing enshrined in ESOP legal rules and regulations appears pivotal in realizing mutual gains from manufacturing modernization.
 
-[Download slides](files/Adrianto,%20Ben-Ner_Ownership%20and%20automation%20adoption.pdf)
-
 ### Artificial intelligence and skill complementarity and substitution: Evidence from job postings
 
 _Co-authored with Avner Ben-Ner_
