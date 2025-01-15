@@ -11,4 +11,4 @@ By granting ownership to workers, ESOP allows the potential to gain a slice of f
 
 Results indicate that establishments in employee-owned firms exhibit a significantly greater propensity to deploy industrial robots and artificial intelligence than similar plants in conventional firms. Employee owners embrace automation because of the gains from financial returns, as shown by the positive relationship between plan assets per participant and technology adoption propensity. Ownership affords them a voice and power to protect their interest in sustaining employment and capturing productivity returns. The presence of institutional channels for worker voice and profit-sharing enshrined in ESOP legal rules and regulations appears pivotal in realizing mutual gains from manufacturing modernization.
 
-[Download slides](files/Adrianto_Ben-Ner_Ownership_and_automation_adoption.pdf)
+[Download slides](https://ito-adrianto.github.io/files/Adrianto_Ben-Ner_Ownership_and_automation_adoption.pdf)
