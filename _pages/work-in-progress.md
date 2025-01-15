@@ -16,7 +16,7 @@ author_profile: true
 
 # Work in the preliminary phase (ideation, data collection, and preliminary findings)
 
-## Are Employee-Owned Firms Luddites? Effects of Ownership on Adoption of Robots and Employment after Adoption
+### Are Employee-Owned Firms Luddites? Effects of Ownership on Adoption of Robots and Employment after Adoption
 
 _Co-authored with Avner Ben-Ner and Ainhoa Urtasun_
 
@@ -28,15 +28,19 @@ Empirical evidence suggests that plants that adopt robots increase the hiring of
 
 In sum, contrary to “Luddite” expectations, employee-owners embrace automation because ownership affords them a voice and power to protect their interest in sustaining employment and capturing productivity returns. The presence of institutional channels for worker voice and profit-sharing enshrined in ESOP legal rules and regulations appears pivotal in realizing mutual gains from manufacturing modernization.
 
+### Are employee-owned firms more ethical? Employee ownership and environmental, social, and governance impacts
+
+In ESOP firms, employee-owners have a longer-term perspective than external shareholders since they can realize the returns from stock ownership only when they leave the company. This poses two consequences. First, they may choose organizational policies that ensure operational sustainability. Second, they may prioritize their (selfish) well-being instead of that of external parties (i.e., external shareholders, customers, and society). In this study, I test the two predictions. I compare public employee-owned firms with public conventional firms with respect to their ratings on the long-term commitment to socially responsible investments and ESG investment standards, and the levels of emissions and environmental violations.
+
+### Does automation make the workplace more equitable? Examining the effects of emerging technologies on gender and race
+
+Automation reduces physical strain in labor-intensive jobs, thus broadening the opportunities for jobs that were predominantly occupied by men into those that women and people with disabilities can enter. For instance, robots and automated systems substitute manual and physically demanding tasks, alleviating barriers related to physical strength. Automation also enhances process transparency and standardization, facilitating more objective performance evaluations and reducing potential biases against minority groups. In this study, I investigate the effect of change in technology intensity in the same local labor market and industry on the likelihood that women and people with disabilities enter occupations with high automation.
+
 ### Artificial intelligence and skill complementarity and substitution: Evidence from job postings
 
 _Co-authored with Avner Ben-Ner_
 
 In this paper, I investigate the evolution of AI capabilities and how they complement and substitute human skills over time. I study AI and other complementary technologies (e.g., robotics, specialized software, and specialized machinery) as a system, leveraging the wealth of information on skill requirements from online job postings and other sources.
-
-### Does automation make the workplace more equitable? Examining the effects of emerging technologies on gender and race
-
-Automation reduces physical strain in labor-intensive jobs, thus broadening the opportunities for jobs that were predominantly occupied by men into those that women and people with disabilities can enter. For instance, robots and automated systems substitute manual and physically demanding tasks, alleviating barriers related to physical strength. Automation also enhances process transparency and standardization, facilitating more objective performance evaluations and reducing potential biases against minority groups. In this study, I investigate the effect of change in technology intensity in the same local labor market and industry on the likelihood that women and people with disabilities enter occupations with high automation.
 
 ### The effect of the anti-abuse rules for S corporations on the development of ESOP in the US
 
@@ -45,7 +49,3 @@ The year 2001 marked the beginning of a series of regulations that dealt with ab
 ### Risk tolerance: Do employee-owned firms hire workers that fit with the ownership culture?
 
 Previous studies show that employee-owned firms have distinct human resource practices that distinguish them from conventional firms (e.g., group-based incentives and higher autonomy). One highly cited such practice is the compensation package in employee-owned firms in the form of ownership shares, which tends to be riskier than base salary. As such, ESOP firms may want to hire employees who fit the “risky” ownership culture, and only those who have a high tolerance for risk will be willing to join these firms. I investigate whether employees in employee-owned firms are more risk-tolerant than those in other firms with no such plan.
-
-### Are employee-owned firms more ethical? Employee ownership and environmental, social, and governance impacts
-
-In ESOP firms, employee-owners have a longer-term perspective than external shareholders since they can realize the returns from stock ownership only when they leave the company. This poses two consequences. First, they may choose organizational policies that ensure operational sustainability. Second, they may prioritize their (selfish) well-being instead of that of external parties (i.e., external shareholders, customers, and society). In this study, I test the two predictions. I compare public employee-owned firms with public conventional firms with respect to their ratings on the long-term commitment to socially responsible investments and ESG investment standards, and the levels of emissions and environmental violations.
