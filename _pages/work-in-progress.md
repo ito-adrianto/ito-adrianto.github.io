@@ -20,4 +20,5 @@ author_profile: true
 4. The effect of the anti-abuse rules for S corporations on the development of ESOP in the US
 5. Risk tolerance: Do employee-owned firms hire workers that fit with the ownership culture?
 6. A literature review on the effect of artificial intelligence on labor demand and productivity
+7. Are employee-owned firms more ethical? Employee ownership and environmental, social, and governance impacts
 
