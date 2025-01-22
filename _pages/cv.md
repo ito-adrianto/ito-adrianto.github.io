@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[View the PDF](files/CV.pdf)
+
 Education
 ======
 * Ph.D in Business Administration, Carlson School of Management University of Minnesota, 2025 (expected)
