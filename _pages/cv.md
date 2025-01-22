@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View the PDF](https://ito-adrianto.github.io/files/CV.pdf)
+[View the PDF](https://ito-adrianto.github.io/files/Adrianto-CV.pdf)
 
 Education
 ======
