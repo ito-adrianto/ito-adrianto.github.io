@@ -97,3 +97,6 @@ Training and certifications
 * People Management Program
 * Organization Development
 * HR Data Scientist for Financial Services Institution
+
+
+<embed src="file/CV.pdf" width="800" height="600" type="application/pdf">
