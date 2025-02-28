@@ -35,6 +35,7 @@ Work experience
   
 Academic Service
 ======
+* Ad-hoc reviewer for Annals of Public and Cooperative Economics, 2025
 * Ad-hoc reviewer for Organization Science, 2024
 * Ad-hoc reviewer for the Annual Meeting of the Academy of Management (3 STR and 3 HR papers), 2024
 * Discussant in the Kelso Workshop, New Brunswick, NJ, 2024
