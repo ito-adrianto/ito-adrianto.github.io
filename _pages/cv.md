@@ -70,6 +70,7 @@ R, LaTex, SQL, Python, SPSS, UCINET, RapidMiner
 
 Ph.D.-level courses
 ======
+* Data Mining and Personalization
 * Strategy II
 * Seminar in Technology Strategy
 * Core Seminar: Work and Organizations Research Methods
@@ -84,7 +85,7 @@ Ph.D.-level courses
 * Psychological Measurement
 * Seminar in Industrial and Organizational Psychology I
 * Econometric Analysis I
-* Econometric Analysis II • Data Mining and Personalization
+* Econometric Analysis II
 
 Training and certifications
 ======
