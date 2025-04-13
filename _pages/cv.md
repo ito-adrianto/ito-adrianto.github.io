@@ -35,6 +35,7 @@ Work experience
   
 Academic Service
 ======
+* Ad-hoc reviewer for the International Journal of Human Resource Management, 2025
 * Ad-hoc reviewer for Annals of Public and Cooperative Economics, 2025
 * Ad-hoc reviewer for the Annual Meeting of the Academy of Management, 2024-2025
 * Ad-hoc reviewer for Organization Science, 2024
@@ -42,8 +43,8 @@ Academic Service
   
 Research and academic funding
 ======
-* Summer Fellowship, Carlson School of Management	2024
-* Ph.D. Student Conference Travel Fellowship, Carlson School of Management, 2022-2024
+* Ph.D. Student Conference Travel Fellowship, Carlson School of Management, 2022-2025
+* Summer Fellowship, Carlson School of Management, 2024
 * The Employee Ownership Foundation/Louis O. Kelso Fellowship, Rutgers University, 2023–2024
 * Travel grant for the WAIM Conference, the Work in the Age of Intelligent Machine Research Coordination Network, 2022
 * Full scholarship from the Financial Education and Training Agency (FETA) Scholarship for a Doctoral degree, the Ministry of Finance, 2020–2024
